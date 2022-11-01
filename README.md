@@ -1,7 +1,3 @@
-# ProgrammingAssingnment2
-
-### Introduction
-
 ### Example: Caching the Mean of a Vector
 
     makeVector <- function(x = numeric()) {
